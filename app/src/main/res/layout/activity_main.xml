@@ -1,51 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.dwwaittime.dwaittime.MainActivity">
+    xmlns:tools="http://schemas.android.com/tools">
 
-    <android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/swipe_refresh"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_marginTop="44dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        android:layout_height="match_parent"
+        tools:context="com.dwwaittime.dwaittime.MainActivity"
+        android:orientation="vertical">
 
-        <ListView
-            android:id="@+id/listview"
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginTop="46dp"
+            android:layout_height="45dp"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
-        </ListView>
-    </android.support.v4.widget.SwipeRefreshLayout>
-    <android.support.design.widget.TabLayout
-        android:id="@+id/tabs"
-        android:layout_width="match_parent"
-        android:layout_height="45dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+            <android.support.design.widget.TabItem
+                android:id="@+id/tdl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TDL" />
 
-        <android.support.design.widget.TabItem
-            android:id="@+id/tdl"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="TDL" />
+            <android.support.design.widget.TabItem
+                android:id="@+id/tds"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TDS" />
 
-        <android.support.design.widget.TabItem
-            android:id="@+id/tds"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="TDS" />
+        </android.support.design.widget.TabLayout>
 
-    </android.support.design.widget.TabLayout>
+        <android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/swipe_refresh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
 
+            <ExpandableListView
+                android:id="@+id/listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="0dp"
+                android:groupIndicator="@null"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
 
+        </android.support.v4.widget.SwipeRefreshLayout>
 
-</android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+
+</layout>

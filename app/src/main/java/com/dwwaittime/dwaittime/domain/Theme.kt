@@ -6,6 +6,5 @@ import se.ansman.kotshi.JsonSerializable
 data class Theme(
         val id: String,
         val name: String,
-        val length: String,
-        val attractions: Array<Attraction>
+        val facilities: Array<Facility>
 )

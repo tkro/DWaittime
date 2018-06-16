@@ -1,0 +1,1345 @@
+{
+    "tdl_A": [
+        {
+            "id": "WRB",
+            "name": "ワールドバザール",
+            "facilities": [
+                {
+                    "code": "WRB01",
+                    "name": "オムニバス"
+                },
+                {
+                    "code": "WRB04",
+                    "name": "ペニーアーケード"
+                }
+            ]
+        },
+        {
+            "id": "ADL",
+            "name": "アドベンチャーランド",
+            "facilities": [
+                {
+                    "code": "ADL01",
+                    "name": "ウエスタンリバー鉄道"
+                },
+                {
+                    "code": "ADL02",
+                    "name": "カリブの海賊"
+                },
+                {
+                    "code": "ADL03",
+                    "name": "ジャングルクルーズ：ワイルドライフ・エクスペディション"
+                },
+                {
+                    "code": "ADL04",
+                    "name": "スイスファミリー・ツリーハウス"
+                },
+                {
+                    "code": "ADL05",
+                    "name": "魅惑のチキルーム：スティッチ・プレゼンツ〝アロハ・エ・コモ・マイ！〝"
+                }
+            ]
+        },
+        {
+            "id": "WEL",
+            "name": "ウエスタンランド",
+            "facilities": [
+                {
+                    "code": "WEL01",
+                    "name": "ビッグサンダー・マウンテン"
+                },
+                {
+                    "code": "WEL02",
+                    "name": "ウエスタンランド・シューティングギャラリー"
+                },
+                {
+                    "code": "WEL03",
+                    "name": "カントリーベア・シアター"
+                },
+                {
+                    "code": "WEL04",
+                    "name": "トムソーヤ島いかだ"
+                },
+                {
+                    "code": "WEL05",
+                    "name": "蒸気船マークトウェイン号"
+                }
+            ]
+        },
+        {
+            "id": "CRC",
+            "name": "クリッターカントリー",
+            "facilities": [
+                {
+                    "code": "CRC01",
+                    "name": "スプラッシュ・マウンテン"
+                },
+                {
+                    "code": "CRC02",
+                    "name": "ビーバーブラザーズのカヌー探険"
+                }
+            ]
+        },
+        {
+            "id": "FAL",
+            "name": "ファンタージランド",
+            "facilities": [
+                {
+                    "code": "FAL01",
+                    "name": "プーさんのハニーハント"
+                },
+                {
+                    "code": "FAL02",
+                    "name": "ホーンテッドマンション"
+                },
+                {
+                    "code": "FAL03",
+                    "name": "アリスのティーパーティー"
+                },
+                {
+                    "code": "FAL04",
+                    "name": "イッツ・ア・スモールワールド"
+                },
+                {
+                    "code": "FAL05",
+                    "name": "キャッスルカルーセル"
+                },{
+                    "code": "FAL06",
+                    "name": "シンデレラのフェアリーテイル・ホール"
+                },
+                {
+                    "code": "FAL07",
+                    "name": "ピノキオの冒険旅行"
+                },
+                {
+                    "code": "FAL08",
+                    "name": "ピーターパン空の旅"
+                },
+                {
+                    "code": "FAL09",
+                    "name": "ミッキーのフィルハーマジック"
+                },
+                {
+                    "code": "FAL10",
+                    "name": "白雪姫と七人のこびと"
+                },
+                {
+                    "code": "FAL11",
+                    "name": "空飛ぶダンボ"
+                }
+            ]
+        },
+        {
+            "id": "TOT",
+            "name": "トゥーンタウン",
+            "facilities": [
+                {
+                    "code": "TOT01",
+                    "name": "ガジェットのゴーコースター"
+                },
+                {
+                    "code": "TOT02",
+                    "name": "グーフィーのペイント＆プレイハウス"
+                },
+                {
+                    "code": "TOT03",
+                    "name": "チップとデールのツリーハウス"
+                },
+                {
+                    "code": "TOT04",
+                    "name": "トゥーンパーク"
+                },
+                {
+                    "code": "TOT05",
+                    "name": "ドナルドのボート"
+                },
+                {
+                    "code": "TOT06",
+                    "name": "ミニーの家"
+                },
+                {
+                    "code": "TOT07",
+                    "name": "ロジャーラビットのカートゥーンスピン"
+                }
+            ]
+        },
+        {
+            "id": "TOL",
+            "name": "トゥモローランド",
+            "facilities": [
+                {
+                    "code": "TOL01",
+                    "name": "スター・ツアーズ：ザ・アドベンチャーズ・コンティニュー スクリー"
+                },
+                {
+                    "code": "TOL02",
+                    "name": "スペース・マウンテン"
+                },
+                {
+                    "code": "TOL03",
+                    "name": "バズ・ライトイヤーのアストロブラスター"
+                },
+                {
+                    "code": "TOL04",
+                    "name": "モンスターズ・インク“ライド＆ゴーシーク！”"
+                },
+                {
+                    "code": "TOL05",
+                    "name": "スティッチ・エンカウンター"
+                }
+            ]
+        }
+    ],
+    "tds_A": [
+        {
+            "id": "MEH",
+            "name": "メディテレーニアンハーバー",
+            "facilities": [
+                {
+                    "code": "MEH01",
+                    "name": "ディズニーシー・トランジットスチーマーライン（アメリカンウォーターフロント）"
+                },
+                {
+                    "code": "MEH02",
+                    "name": "フォートレス・エクスプロレーション"
+                },
+                {
+                    "code": "MEH03",
+                    "name": "ヴェネツィアン・ゴンドラ"
+                }
+            ]
+        },
+        {
+            "id": "AMW",
+            "name": "アメリカンウォーターフロント",
+            "facilities": [
+                {
+                    "code": "AMW01",
+                    "name": "タワー・オブ・テラー"
+                },
+                {
+                    "code": "AMW02",
+                    "name": "トイ・ストーリー・マニア！"
+                },
+                {
+                    "code": "AMW03",
+                    "name": "タートル・トーク"
+                },
+                {
+                    "code": "AMW04",
+                    "name": "ディズニーシー・エレクトリックレールウェイ（アメリカンウォーターフロント）"
+                },
+                {
+                    "code": "AMW06",
+                    "name": "ビッグシティ・ヴィークル"
+                }
+            ]
+        },
+        {
+            "id": "MYI",
+            "name": "ミステリアスアイランド",
+            "facilities": [
+                {
+                    "code": "MYI01",
+                    "name": "センター・オブ・ジ・アース"
+                },
+                {
+                    "code": "MYI02",
+                    "name": "海底２万マイル"
+                }
+            ]
+        },
+        {
+            "id": "POD",
+            "name": "ポートディスカバリー",
+            "facilities": [
+                {
+                    "code": "POD01",
+                    "name": "アクアトピア"
+                },
+                {
+                    "code": "POD02",
+                    "name": "ディズニーシー・エレクトリックレールウェイ（ポートディスカバリー）"
+                },
+                {
+                    "code": "POD03",
+                    "name": "ニモ＆フレンズ・シーライダー"
+                }
+            ]
+        },
+        {
+            "id": "LRD",
+            "name": "ロストリバーデルタ",
+            "facilities": [
+                {
+                    "code": "LRD01",
+                    "name": "インディ・ジョーンズ・アドベンチャー：クリスタルスカルの魔宮"
+                },
+                {
+                    "code": "LRD02",
+                    "name": "レイジングスピリッツ"
+                },
+                {
+                    "code": "LRD03",
+                    "name": "ディズニーシー・トランジットスチーマーライン（ロストリバーデルタ）"
+                }
+            ]
+        },
+        {
+            "id": "MEL",
+            "name": "マーメイドラグーン",
+            "facilities": [
+                {
+                    "code": "MEL01",
+                    "name": "マーメイドラグーンシアター"
+                },
+                {
+                    "code": "MEL02",
+                    "name": "アリエルのプレイグラウンド"
+                },
+                {
+                    "code": "MEL03",
+                    "name": "ジャンピン・ジェリーフィッシュ"
+                },
+                {
+                    "code": "MEL04",
+                    "name": "スカットルのスクーター"
+                },
+                {
+                    "code": "MEL05",
+                    "name": "フランダーのフライングフィッシュコースター"
+                },
+                {
+                    "code": "MEL06",
+                    "name": "ブローフィッシュ・バルーンレース"
+                },
+                {
+                    "code": "MEL07",
+                    "name": "ワールプール"
+                }
+            ]
+        },
+        {
+            "id": "ARC",
+            "name": "アラビアンコースト",
+            "facilities": [
+                {
+                    "code": "ARC01",
+                    "name": "マジックランプシアター"
+                },
+                {
+                    "code": "ARC02",
+                    "name": "キャラバンカルーセル"
+                },
+                {
+                    "code": "ARC03",
+                    "name": "シンドバッド・ストーリーブック・ヴォヤッジ"
+                },
+                {
+                    "code": "ARC04",
+                    "name": "ジャスミンのフライングカーペット"
+                }
+            ]
+        }
+    ],
+    "tdl_R": [
+        {
+            "id": "WRB",
+            "name": "ワールドバザール",
+            "facilities": [
+                {
+                    "code": "313",
+                    "name": "れすとらん北齋",
+                    "kanaName": "れすとらん北齋",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:JRH/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+
+                },
+                {
+                    "code": "317",
+                    "name": "アイスクリームコーン",
+                    "FacilityKanaName": "ｱｲｽｸﾘｰﾑｺｰﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:ICC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "308",
+                    "name": "イベントブース　※シンデレラ城前プラザ（アドベンチャーランド側）",
+                    "FacilityKanaName": "ｲﾍﾞﾝﾄﾌﾞｰｽ ※ｼﾝﾃﾞﾚﾗ城前ﾌﾟﾗｻﾞ(ｱﾄﾞﾍﾞﾝﾁｬｰﾗﾝﾄﾞ側)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "その他",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "309",
+                    "name": "イベントブース　※シンデレラ城前プラザ（ワールドバザール側）",
+                    "FacilityKanaName": "ｲﾍﾞﾝﾄﾌﾞｰｽ ※ｼﾝﾃﾞﾚﾗ城前ﾌﾟﾗｻﾞ(ﾜｰﾙﾄﾞﾊﾞｻﾞｰﾙ側)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "その他",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "304",
+                    "name": "グレートアメリカン・ワッフルカンパニー",
+                    "FacilityKanaName": "ｸﾞﾚｰﾄｱﾒﾘｶﾝ･ﾜｯﾌﾙｶﾝﾊﾟﾆｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:GAW/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "316",
+                    "name": "スウィートハート・カフェ",
+                    "FacilityKanaName": "ｽｳｨｰﾄﾊｰﾄ･ｶﾌｪ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SHC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "306",
+                    "name": "センターストリート・コーヒーハウス",
+                    "FacilityKanaName": "ｾﾝﾀｰｽﾄﾘｰﾄ･ｺｰﾋｰﾊｳｽ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CSC/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "303",
+                    "name": "リフレッシュメントコーナー",
+                    "FacilityKanaName": "ﾘﾌﾚｯｼｭﾒﾝﾄｺｰﾅｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:RFC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "ADL",
+            "name": "アドベンチャーランド",
+            "facilities": [
+                {
+                    "code": "321",
+                    "name": "カフェ・オーリンズ",
+                    "FacilityKanaName": "ｶﾌｪ･ｵｰﾘﾝｽﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:COL/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "366",
+                    "name": "カフェ・オーリンズ前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ｶﾌｪ･ｵｰﾘﾝｽﾞ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "バーベキュー味"
+                },
+                {
+                    "code": "323",
+                    "name": "クリスタルパレス・レストラン",
+                    "FacilityKanaName": "ｸﾘｽﾀﾙﾊﾟﾚｽ･ﾚｽﾄﾗﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CRP/",
+                    "RestaurantForm": "BS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "327",
+                    "name": "ザ・ガゼーボ",
+                    "FacilityKanaName": "ｻﾞ･ｶﾞｾﾞｰﾎﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:GZB/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "331",
+                    "name": "スキッパーズ・ギャレー",
+                    "FacilityKanaName": "ｽｷｯﾊﾟｰｽﾞ･ｷﾞｬﾚｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SKP/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "334",
+                    "name": "スクウィーザーズ・トロピカル・ジュースバー",
+                    "FacilityKanaName": "ｽｸｳｨｰｻﾞｰｽﾞ･ﾄﾛﾋﾟｶﾙ･ｼﾞｭｰｽﾊﾞｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SQJ/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "332",
+                    "name": "チャイナボイジャー",
+                    "FacilityKanaName": "ﾁｬｲﾅﾎﾞｲｼﾞｬｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CNV/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "305",
+                    "name": "パークサイドワゴン",
+                    "FacilityKanaName": "ﾊﾟｰｸｻｲﾄﾞﾜｺﾞﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:PSW/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "330",
+                    "name": "フレッシュフルーツオアシス",
+                    "FacilityKanaName": "ﾌﾚｯｼｭﾌﾙｰﾂｵｱｼｽ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:FFO/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "318",
+                    "name": "ブルーバイユー・レストラン",
+                    "FacilityKanaName": "ﾌﾞﾙｰﾊﾞｲﾕｰ･ﾚｽﾄﾗﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:BBY/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "333",
+                    "name": "ボイラールーム・バイツ",
+                    "FacilityKanaName": "ﾎﾞｲﾗｰﾙｰﾑ･ﾊﾞｲﾂ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:BRB/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "367",
+                    "name": "ポリネシアンテラス・レストラン前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾎﾟﾘﾈｼｱﾝﾃﾗｽ･ﾚｽﾄﾗﾝ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ミルクチョコレート味"
+                },
+                {
+                    "code": "322",
+                    "name": "ロイヤルストリート・ベランダ",
+                    "FacilityKanaName": "ﾛｲﾔﾙｽﾄﾘｰﾄ･ﾍﾞﾗﾝﾀﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:RSV/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                }
+
+            ]
+        },
+        {
+            "id": "WEL",
+            "name": "ウエスタンランド",
+            "facilities": [
+                {
+                    "code": "343",
+                    "name": "カントリーベア・シアター前（ドリンクワゴン）",
+                    "FacilityKanaName": "ｶﾝﾄﾘｰﾍﾞｱ･ｼｱﾀｰ前(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "341",
+                    "name": "キャンティーン",
+                    "FacilityKanaName": "ｷｬﾝﾃｨｰﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CAT/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "339",
+                    "name": "キャンプ・ウッドチャック・キッチン",
+                    "FacilityKanaName": "ｷｬﾝﾌﾟ・ｳｯﾄﾞﾁｬｯｸ・ｷｯﾁﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CWK/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "340",
+                    "name": "チャックワゴン",
+                    "FacilityKanaName": "ﾁｬｯｸﾜｺﾞﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CHW/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "369",
+                    "name": "チャックワゴン横（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾁｬｯｸﾜｺﾞﾝ横(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "キャラメル味"
+                },
+                {
+                    "code": "368",
+                    "name": "トレーディングポスト横（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾄﾚｰﾃﾞｨﾝｸﾞﾎﾟｽﾄ横(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors":  "カレー味"
+                },
+                {
+                    "code": "338",
+                    "name": "ハングリーベア・レストラン",
+                    "FacilityKanaName": "ﾊﾝｸﾞﾘｰﾍﾞｱ･ﾚｽﾄﾗﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:HBR/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "342",
+                    "name": "ビッグサンダー・マウンテン前（ドリンクワゴン）",
+                    "FacilityKanaName": "ﾋﾞｯｸﾞｻﾝﾀﾞｰ･ﾏｳﾝﾃﾝ前(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "335",
+                    "name": "プラザパビリオン・レストラン",
+                    "FacilityKanaName": "ﾌﾟﾗｻﾞﾊﾟﾋﾞﾘｵﾝ･ﾚｽﾄﾗﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:PPV/",
+                    "RestaurantForm": "BS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "337",
+                    "name": "ペコスビル・カフェ",
+                    "FacilityKanaName": "ﾍﾟｺｽﾋﾞﾙ･ｶﾌｪ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:PBC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "370",
+                    "name": "蒸気船マークトウェイン号乗り場前（ポップコーンワゴン）",
+                    "FacilityKanaName": "蒸気船ﾏｰｸﾄｳｪｲﾝ号乗り場前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": "null",
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ブラックペッパー味"
+                }
+
+            ]
+        },
+        {
+            "id": "CRC",
+            "name": "クリッターカントリー",
+            "facilities": [
+                {
+                    "code": "344",
+                    "name": "グランマ・サラのキッチン",
+                    "FacilityKanaName": "ｸﾞﾗﾝﾏ･ｻﾗのｷｯﾁﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:GSK/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "345",
+                    "name": "ラケッティのラクーンサルーン",
+                    "FacilityKanaName": "ﾗｹｯﾃｨのﾗｸｰﾝｻﾙｰﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:RRS/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "FAL",
+            "name": "ファンタージランド",
+            "facilities": [
+                {
+                    "code": "371",
+                    "name": "キャッスルカルーセル横（ポップコーンワゴン）",
+                    "FacilityKanaName": "ｷｬｯｽﾙｶﾙｰｾﾙ横(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "キャラメル味"
+                },
+                {
+                    "code": "346",
+                    "name": "キャプテンフックス・ギャレー",
+                    "FacilityKanaName": "ｷｬﾌﾟﾃﾝﾌｯｸｽ･ｷﾞｬﾚｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CHG/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "349",
+                    "name": "クイーン・オブ・ハートのバンケットホール",
+                    "FacilityKanaName": "ｸｲｰﾝ･ｵﾌﾞ･ﾊｰﾄのﾊﾞﾝｹｯﾄﾎｰﾙ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:QOH/",
+                    "RestaurantForm": "BS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "351",
+                    "name": "クレオズ",
+                    "FacilityKanaName": "ｸﾚｵｽﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CLS/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "347",
+                    "name": "トルバドールタバン",
+                    "FacilityKanaName": "ﾄﾙﾊﾞﾄﾞｰﾙﾀﾊﾞﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:TRT/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "350",
+                    "name": "ビレッジペイストリー",
+                    "FacilityKanaName": "ﾋﾞﾚｯｼﾞﾍﾟｲｽﾄﾘｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:VPS/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "372",
+                    "name": "プーさんのハニーハント前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾌﾟｰさんのﾊﾆｰﾊﾝﾄ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ハニー味"
+                },
+                {
+                    "code": "397",
+                    "name": "マジカルマーケット",
+                    "FacilityKanaName": "ﾏｼﾞｶﾙﾏｰｹｯﾄ",
+                    "FacilityURLSP": "https://www.tokyodisneyresort.jp/tdl/restaurant/detail/397/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "TOT",
+            "name": "トゥーンタウン",
+            "facilities": [
+                {
+                    "code": "365",
+                    "name": "ディンギードリンク",
+                    "FacilityKanaName": "ﾃﾞｨﾝｷﾞｰﾄﾞﾘﾝｸ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:DGD/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "364",
+                    "name": "トゥーントーン・トリート",
+                    "FacilityKanaName": "ﾄｩｰﾝﾄｰﾝ･ﾄﾘｰﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:TTT/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "376",
+                    "name": "トゥーンポップ",
+                    "FacilityKanaName": "ﾄｩｰﾝﾎﾟｯﾌﾟ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:P11/",
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "キャラメル味"
+                },
+                {
+                    "code": "362",
+                    "name": "ヒューイ・デューイ・ルーイのグッドタイム・カフェ",
+                    "FacilityKanaName": "ﾋｭｰｲ･ﾃﾞｭｰｲ･ﾙｰｲのｸﾞｯﾄﾞﾀｲﾑ･ｶﾌｪ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:HDL/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "380",
+                    "name": "ポップ・ア・ロット・ポップコーン",
+                    "FacilityKanaName": "ﾎﾟｯﾌﾟ･ｱ･ﾛｯﾄ･ﾎﾟｯﾌﾟｺｰﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:P15/",
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ミルクチョコレート味"
+                },
+                {
+                    "code": "363",
+                    "name": "ミッキーのトレーラー",
+                    "FacilityKanaName": "ﾐｯｷｰのﾄﾚｰﾗｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:MTR/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "TOL",
+            "name": "トゥモローランド",
+            "facilities": [
+                {
+                    "code": "354",
+                    "name": "ソフトランディング（２Ｆ）",
+                    "FacilityKanaName": "ｿﾌﾄﾗﾝﾃﾞｨﾝｸﾞ(2F)",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SLD/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "357",
+                    "name": "トゥモローランド・テラス",
+                    "FacilityKanaName": "ﾄｩﾓﾛｰﾗﾝﾄﾞ･ﾃﾗｽ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:TLT/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "360",
+                    "name": "トゥモローランド・テラス前（ドリンクワゴン）",
+                    "FacilityKanaName": "ﾄｩﾓﾛｰﾗﾝﾄﾞ･ﾃﾗｽ前(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "375",
+                    "name": "トレジャーコメット横（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾄﾚｼﾞｬｰｺﾒｯﾄ横(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ソルト味"
+                },
+                {
+                    "code": "353",
+                    "name": "パン・ギャラクティック・ピザ・ポート",
+                    "FacilityKanaName": "ﾊﾟﾝ･ｷﾞｬﾗｸﾃｨｯｸ･ﾋﾟｻﾞ･ﾎﾟｰﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:PGP/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "352",
+                    "name": "プラズマ・レイズ・ダイナー",
+                    "FacilityKanaName": "ﾌﾟﾗｽﾞﾏ･ﾚｲｽﾞ･ﾀﾞｲﾅｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:PRD/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "377",
+                    "name": "ポッピングポッド",
+                    "FacilityKanaName": "ﾎﾟｯﾋﾟﾝｸﾞﾎﾟｯﾄﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:P12/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": "しょうゆバター味"
+                }
+            ]
+        },
+        {
+            "id": "IPA",
+            "name": "パーク内",
+            "facilities": [
+                {
+                    "code": "494",
+                    "name": "フードブース（アドベンチャーランド側）",
+                    "FacilityKanaName": "ﾌｰﾄﾞﾌﾞｰｽ(ｱﾄﾞﾍﾞﾝﾁｬｰﾗﾝﾄﾞ側)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "その他",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "495",
+                    "name": "フードブース（トゥモローランド側）",
+                    "FacilityKanaName": "ﾌｰﾄﾞﾌﾞｰｽ(ﾄｩﾓﾛｰﾗﾝﾄﾞ側)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "その他",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "OPA",
+            "name": "パーク外",
+            "facilities": [
+                {
+                    "code": "307",
+                    "name": "キャリッジハウス・リフレッシュメント",
+                    "FacilityKanaName": "ｷｬﾘｯｼﾞﾊｳｽ･ﾘﾌﾚｯｼｭﾒﾝﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CHR/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                }
+            ]
+        }
+    ],
+    "tds_R": [
+        {
+            "id": "MEH",
+            "name": "メディテレーニアンハーバー",
+            "facilities": [
+                {
+                    "code": "400",
+                    "name": "カフェ・ポルトフィーノ",
+                    "FacilityKanaName": "ｶﾌｪ･ﾎﾟﾙﾄﾌｨｰﾉ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CPF/",
+                    "RestaurantForm": "BS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "411",
+                    "name": "ゴンドリエ・スナック",
+                    "FacilityKanaName": "ｺﾞﾝﾄﾞﾘｴ･ｽﾅｯｸ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:GOS/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "403",
+                    "name": "ザンビーニ・ブラザーズ・リストランテ",
+                    "FacilityKanaName": "ｻﾞﾝﾋﾞｰﾆ･ﾌﾞﾗｻﾞｰｽﾞ･ﾘｽﾄﾗﾝﾃ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:ZBR/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "412",
+                    "name": "マゼランズ",
+                    "FacilityKanaName": "ﾏｾﾞﾗﾝｽﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:MGS/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "415",
+                    "name": "マゼランズ・ラウンジ",
+                    "FacilityKanaName": "ﾏｾﾞﾗﾝｽﾞ･ﾗｳﾝｼﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:MGL/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "401",
+                    "name": "マンマ・ビスコッティーズ・ベーカリー",
+                    "FacilityKanaName": "ﾏﾝﾏ･ﾋﾞｽｺｯﾃｨｰｽﾞ･ﾍﾞｰｶﾘｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:MBB/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "402",
+                    "name": "マンマ・ビスコッティーズ・ベーカリー前（ドリンクワゴン）",
+                    "FacilityKanaName": "ﾏﾝﾏ・ﾋﾞｽｺｯﾃｨｰｽﾞ･ﾍﾞｰｶﾘｰ前(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "408",
+                    "name": "リストランテ・ディ・カナレット",
+                    "FacilityKanaName": "ﾘｽﾄﾗﾝﾃ･ﾃﾞｨ･ｶﾅﾚｯﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:RDC/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "416",
+                    "name": "リフレスコス",
+                    "FacilityKanaName": "ﾘﾌﾚｽｺｽ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:REF/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "405",
+                    "name": "ヴィア・デッレ・ヴィティ（ドリンクワゴン）",
+                    "FacilityKanaName": "ｳﾞｨｱ･ﾃﾞｯﾚ･ｳﾞｨﾃｨ(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "479",
+                    "name": "ヴィア・デッレ・ヴィティ（ポップコーンワゴン）",
+                    "FacilityKanaName": "ｳﾞｨｱ･ﾃﾞｯﾚ･ｳﾞｨﾃｨ(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ハーブトマト味"
+                }
+            ]
+        },
+        {
+            "id": "AMW",
+            "name": "アメリカンウォーターフロント",
+            "facilities": [
+                {
+                    "code": "425",
+                    "name": "S.S.コロンビア・ダイニングルーム",
+                    "FacilityKanaName": "S.S.ｺﾛﾝﾋﾞｱ･ﾀﾞｲﾆﾝｸﾞﾙｰﾑ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SSD/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "446",
+                    "name": "ケープコッド・クックオフ",
+                    "FacilityKanaName": "ｹｰﾌﾟｺｯﾄﾞ･ｸｯｸｵﾌ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CCC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "474",
+                    "name": "ケープコッド・クックオフ前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ｹｰﾌﾟｺｯﾄﾞ･ｸｯｸｵﾌ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ミルクチョコレート味"
+                },
+                {
+                    "code": "447",
+                    "name": "ケープコッド・クックオフ（ショーダイニングエリア）",
+                    "FacilityKanaName": "ｹｰﾌﾟｺｯﾄﾞ･ｸｯｸｵﾌ(ｼｮｰﾀﾞｲﾆﾝｸﾞｴﾘｱ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "448",
+                    "name": "ケープコッド・コンフェクション",
+                    "FacilityKanaName": "ｹｰﾌﾟｺｯﾄﾞ･ｺﾝﾌｪｸｼｮﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CCO/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "429",
+                    "name": "テディ・ルーズヴェルト・ラウンジ",
+                    "FacilityKanaName": "ﾃﾃﾞｨ･ﾙｰｽﾞｳﾞｪﾙﾄ･ﾗｳﾝｼﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:TRL/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "423",
+                    "name": "デランシー・ケータリング",
+                    "FacilityKanaName": "ﾃﾞﾗﾝｼｰ･ｹｰﾀﾘﾝｸﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:DEC/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "472",
+                    "name": "ドックサイドステージ前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾄﾞｯｸｻｲﾄﾞｽﾃｰｼﾞ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ガーリックシュリンプ味"
+                },
+                {
+                    "code": "422",
+                    "name": "ニューヨーク・デリ",
+                    "FacilityKanaName": "ﾆｭｰﾖｰｸ･ﾃﾞﾘ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:NYD/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "449",
+                    "name": "ハイタイド・トリート",
+                    "FacilityKanaName": "ﾊｲﾀｲﾄﾞ･ﾄﾘｰﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:HTT/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "498",
+                    "name": "ハドソンリバー・ハーベスト",
+                    "FacilityKanaName": "ﾊﾄﾞｿﾝﾘﾊﾞｰ･ﾊｰﾍﾞｽﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:HRH/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "430",
+                    "name": "バーナクル・ビルズ",
+                    "FacilityKanaName": "ﾊﾞｰﾅｸﾙ･ﾋﾞﾙｽﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:BBS/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "440",
+                    "name": "パパダキス・フレッシュフルーツ",
+                    "FacilityKanaName": "ﾊﾟﾊﾟﾀﾞｷｽ･ﾌﾚｯｼｭﾌﾙｰﾂ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:PFF/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "471",
+                    "name": "リドアイル前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾘﾄﾞｱｲﾙ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "キャラメル味"
+                },
+                {
+                    "code": "435",
+                    "name": "リバティ・ランディング・ダイナー",
+                    "FacilityKanaName": "ﾘﾊﾞﾃｨ･ﾗﾝﾃﾞｨﾝｸﾞ･ﾀﾞｲﾅｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:LLD/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "432",
+                    "name": "レストラン櫻",
+                    "FacilityKanaName": "ﾚｽﾄﾗﾝ櫻",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:JRS/",
+                    "RestaurantForm": "TS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "436",
+                    "name": "レストラン櫻 テラス席",
+                    "FacilityKanaName": "ﾚｽﾄﾗﾝ櫻 ﾃﾗｽ席",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "その他",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+
+        {
+            "id": "MYI",
+            "name": "ミステリアスアイランド",
+            "facilities": [
+                {
+                    "code": "420",
+                    "name": "ノーチラスギフト横（ドリンクワゴン）",
+                    "FacilityKanaName": "ﾉｰﾁﾗｽｷﾞﾌﾄ横(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "421",
+                    "name": "ノーチラスギャレー",
+                    "FacilityKanaName": "ﾉｰﾁﾗｽｷﾞｬﾚｰ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:NTG/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "419",
+                    "name": "リフレッシュメント・ステーション",
+                    "FacilityKanaName": "ﾘﾌﾚｯｼｭﾒﾝﾄ･ｽﾃｰｼｮﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:RFS/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "418",
+                    "name": "ヴォルケイニア・レストラン",
+                    "FacilityKanaName": "ｳﾞｫﾙｹｲﾆｱ･ﾚｽﾄﾗﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:VCR/",
+                    "RestaurantForm": "BS",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "POD",
+            "name": "ポートディスカバリー",
+            "facilities": [
+                {
+                    "code": "475",
+                    "name": "アクアトピア横（ポップコーンワゴン）",
+                    "FacilityKanaName": "ｱｸｱﾄﾋﾟｱ横(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "キャラメル味"
+                },
+                {
+                    "code": "450",
+                    "name": "シーサイドスナック",
+                    "FacilityKanaName": "ｼｰｻｲﾄﾞｽﾅｯｸ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SSS/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "454",
+                    "name": "ブリーズウェイ・バイツ",
+                    "FacilityKanaName": "ﾌﾞﾘｰｽﾞｳｪｲ･ﾊﾞｲﾂ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:BWB/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "451",
+                    "name": "ホライズンベイ・レストラン",
+                    "FacilityKanaName": "ﾎﾗｲｽﾞﾝﾍﾞｲ･ﾚｽﾄﾗﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:HZB/",
+                    "RestaurantForm": "BS",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "LRD",
+            "name": "ロストリバーデルタ",
+            "facilities": [
+                {
+                    "code": "460",
+                    "name": "エクスペディション・イート",
+                    "FacilityKanaName": "ｴｸｽﾍﾟﾃﾞｨｼｮﾝ･ｲｰﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:EPE/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "457",
+                    "name": "トロピック・アルズ",
+                    "FacilityKanaName": "ﾄﾛﾋﾟｯｸ･ｱﾙｽﾞ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:TPA/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "476",
+                    "name": "ハンガーステージ横（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾊﾝｶﾞｰｽﾃｰｼﾞ横(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ブラックペッパー味"
+                },
+                {
+                    "code": "456",
+                    "name": "ミゲルズ・エルドラド・キャンティーナ",
+                    "FacilityKanaName": "ﾐｹﾞﾙｽﾞ･ｴﾙﾄﾞﾗﾄﾞ･ｷｬﾝﾃｨｰﾅ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:MEC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "458",
+                    "name": "ミゲルズ・エルドラド・キャンティーナ前（ドリンクワゴン）",
+                    "FacilityKanaName": "ﾐｹﾞﾙｽﾞ･ｴﾙﾄﾞﾗﾄﾞ･ｷｬﾝﾃｨｰﾅ前(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "459",
+                    "name": "ユカタン・ベースキャンプ・グリル",
+                    "FacilityKanaName": "ﾕｶﾀﾝ･ﾍﾞｰｽｷｬﾝﾌﾟ･ｸﾞﾘﾙ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:YBC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "462",
+                    "name": "ユカタン・ベースキャンプ・グリル前（ドリンクワゴン）",
+                    "FacilityKanaName": "ﾕｶﾀﾝ･ﾍﾞｰｽｷｬﾝﾌﾟ･ｸﾞﾘﾙ前(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "461",
+                    "name": "ロストリバークックハウス",
+                    "FacilityKanaName": "ﾛｽﾄﾘﾊﾞｰｸｯｸﾊｳｽ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:LCH/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                }
+            ]
+        },
+        {
+            "id": "MEL",
+            "name": "マーメイドラグーン",
+            "facilities": [
+                {
+                    "code": "480",
+                    "name": "アリエルのグリーティンググロット横（ポップコーンワゴン）",
+                    "FacilityKanaName": "ｱﾘｴﾙのｸﾞﾘｰﾃｨﾝｸﾞｸﾞﾛｯﾄ横(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ガーリックシュリンプ味"
+                },
+                {
+                    "code": "470",
+                    "name": "スカットルのスクーター横（ドリンクワゴン）",
+                    "FacilityKanaName": "ｽｶｯﾄﾙのｽｸｰﾀｰ横(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "468",
+                    "name": "セバスチャンのカリプソキッチン",
+                    "FacilityKanaName": "ｾﾊﾞｽﾁｬﾝのｶﾘﾌﾟｿｷｯﾁﾝ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SCK/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "477",
+                    "name": "フランダーのフライングフィッシュコースター前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ﾌﾗﾝﾀﾞｰのﾌﾗｲﾝｸﾞﾌｨｯｼｭｺｰｽﾀｰ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "ソルト味"
+                }
+            ]
+        },
+        {
+            "id": "ARC",
+            "name": "アラビアンコースト",
+            "facilities": [
+                {
+                    "code": "478",
+                    "name": "アラビアンコースト前（ポップコーンワゴン）",
+                    "FacilityKanaName": "ｱﾗﾋﾞｱﾝｺｰｽﾄ前(ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾎﾟｯﾌﾟｺｰﾝﾜｺﾞﾝ",
+                    "PopCornFlavors": "カレー味"
+                },
+                {
+                    "code": "465",
+                    "name": "オープンセサミ",
+                    "FacilityKanaName": "ｵｰﾌﾟﾝｾｻﾐ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:OSS/",
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "463",
+                    "name": "カスバ・フードコート",
+                    "FacilityKanaName": "ｶｽﾊﾞ･ﾌｰﾄﾞｺｰﾄ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:CFC/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "464",
+                    "name": "サルタンズ・オアシス",
+                    "FacilityKanaName": "ｻﾙﾀﾝｽﾞ･ｵｱｼｽ",
+                    "FacilityURLSP": "http://www.tokyodisneyresort.jp/sp/restaurant/detail/str_id:SLO/",
+                    "RestaurantForm": "CS",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "466",
+                    "name": "サルタンズ・オアシス横（ドリンクワゴン）",
+                    "FacilityKanaName": "ｻﾙﾀﾝｽﾞ･ｵｱｼｽ横(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                },
+                {
+                    "code": "467",
+                    "name": "マジックランプシアター前（ドリンクワゴン）",
+                    "FacilityKanaName": "ﾏｼﾞｯｸﾗﾝﾌﾟｼｱﾀｰ前(ﾄﾞﾘﾝｸﾜｺﾞﾝ)",
+                    "FacilityURLSP": null,
+                    "RestaurantForm": "ﾜｺﾞﾝ",
+                    "PopCornFlavors": null
+                }
+            ]
+        }
+    ]
+}

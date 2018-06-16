@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layout xmlns:android="http://schemas.android.com/apk/res/android">
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
     <data>
         <variable
             name="model"
-            type="com.dwwaittime.dwaittime.domain.CustomItem"/>
+            type="com.dwwaittime.dwaittime.domain.CustomItemShow"/>
     </data>
 
     <RelativeLayout
@@ -15,7 +16,7 @@
 
         <TextView
             android:id="@+id/name"
-            android:layout_width="268dp"
+            android:layout_width="388dp"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
@@ -30,39 +31,41 @@
             android:id="@+id/fsStatus"
             android:layout_width="267dp"
             android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
             android:layout_alignStart="@+id/name"
-            android:layout_marginTop="92dp"
+            android:layout_below="@+id/time"
+            android:layout_marginTop="0dp"
             android:text="@{model.fsStatus}" />
 
         <TextView
             android:id="@+id/operatingStatus"
-            android:layout_width="265dp"
+            android:layout_width="387dp"
             android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
             android:layout_alignStart="@+id/name"
-            android:layout_marginTop="62dp"
-            android:text="@{model.operatingStatus}" />
+            android:layout_below="@+id/name"
+            android:layout_marginTop="10dp"
+            android:text="@{model.operatingStatus}"
+            android:textSize="14sp" />
 
         <TextView
             android:id="@+id/time"
-            android:layout_width="103dp"
-            android:layout_height="50dp"
-            android:layout_alignParentEnd="true"
-            android:layout_alignTop="@+id/name"
-            android:layout_marginEnd="12dp"
+            android:layout_width="358dp"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/name"
+            android:layout_below="@+id/name"
+            android:layout_marginTop="10dp"
             android:gravity="right"
             android:text="@{model.time}"
             android:textColor="@android:color/holo_orange_dark"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
         <TextView
             android:id="@+id/updateTime"
             android:layout_width="106dp"
             android:layout_height="wrap_content"
-            android:layout_alignEnd="@+id/time"
-            android:layout_alignTop="@+id/fsStatus"
+            android:layout_alignEnd="@+id/name"
+            android:layout_below="@+id/time"
+            android:layout_marginTop="0dp"
             android:gravity="right"
             android:text="@{model.updateTime}" />
 
